@@ -1,6 +1,4 @@
-# OTUS-DE-Graduation-project
-
-# Система для обработки и хранения данных по поездкам байкшеринга 
+# OTUS Data Engineer Graduation Project - Система для обработки и хранения данных по поездкам байкшеринга 
 
 airflow/
 
@@ -16,3 +14,11 @@ test_dm_trips_gobike_tripdata.py - task расчета агрегата в DM
 
 test_dm_teradata_gobike_tripdata.py - task копирования витрины в Teradata
 
+
+jupyter/
+
+test_gobike_tripdata.ipynb - Jupyter Notebook для тестовой визуализации данных и лога загрузок
+
+sql/
+
+DDL.sql - DDL таблиц
